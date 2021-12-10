@@ -1,0 +1,15 @@
+C:\Balta.io\StopWatch\bin\Debug\net6.0\StopWatch.exe
+C:\Balta.io\StopWatch\bin\Debug\net6.0\StopWatch.deps.json
+C:\Balta.io\StopWatch\bin\Debug\net6.0\StopWatch.runtimeconfig.json
+C:\Balta.io\StopWatch\bin\Debug\net6.0\StopWatch.dll
+C:\Balta.io\StopWatch\bin\Debug\net6.0\ref\StopWatch.dll
+C:\Balta.io\StopWatch\bin\Debug\net6.0\StopWatch.pdb
+C:\Balta.io\StopWatch\obj\Debug\net6.0\StopWatch.csproj.AssemblyReference.cache
+C:\Balta.io\StopWatch\obj\Debug\net6.0\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta.io\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfoInputs.cache
+C:\Balta.io\StopWatch\obj\Debug\net6.0\StopWatch.AssemblyInfo.cs
+C:\Balta.io\StopWatch\obj\Debug\net6.0\StopWatch.csproj.CoreCompileInputs.cache
+C:\Balta.io\StopWatch\obj\Debug\net6.0\StopWatch.dll
+C:\Balta.io\StopWatch\obj\Debug\net6.0\ref\StopWatch.dll
+C:\Balta.io\StopWatch\obj\Debug\net6.0\StopWatch.pdb
+C:\Balta.io\StopWatch\obj\Debug\net6.0\StopWatch.genruntimeconfig.cache
